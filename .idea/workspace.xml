@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8be65ff5-8eb8-4938-a6a5-1fa0a07a1b1d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ulpgc/moneycalculator/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ulpgc/moneycalculator/Currency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ulpgc/moneycalculator/CurrencyDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ulpgc/moneycalculator/CurrencyLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ulpgc/moneycalculator/ExchangeMoneyCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ulpgc/moneycalculator/ExchangeRate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ulpgc/moneycalculator/ExchangeRateLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ulpgc/moneycalculator/Money.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ulpgc/moneycalculator/MoneyDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ulpgc/moneycalculator/MoneyDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ulpgc/moneycalculator/fixers/FixerAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ulpgc/moneycalculator/fixers/FixerCurrencyLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ulpgc/moneycalculator/fixers/FixerExchangeRateLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ulpgc/moneycalculator/fixers/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ulpgc/moneycalculator/mocks/MockCurrencyDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ulpgc/moneycalculator/mocks/MockExchangeRateLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ulpgc/moneycalculator/mocks/MockMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ulpgc/moneycalculator/mocks/MockMoneyDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ulpgc/moneycalculator/mocks/MockMoneyDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ulpgc/moneycalculator/swing/SwingCurrencyDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ulpgc/moneycalculator/swing/SwingMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ulpgc/moneycalculator/swing/SwingMoneyDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ulpgc/moneycalculator/swing/SwingMoneyDisplay.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2idyQyirGLMjeoyiIGDq85eyOHY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/thewi/is2/MoneyCalculator/src/main/java/org/example/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ulpgc.moneycalculator.fixers" />
+      <recent name="ulpgc.moneycalculator.mocks" />
+      <recent name="ulpgc.moneycalculator.swing" />
+      <recent name="ulpgc.moneycalculator" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8be65ff5-8eb8-4938-a6a5-1fa0a07a1b1d" name="Changes" comment="" />
+      <created>1719834801233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719834801233</updated>
+      <workItem from="1719834802281" duration="411000" />
+      <workItem from="1719837302848" duration="995000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
